@@ -1,4 +1,4 @@
-** E-Book Management System: An Advance Java Web Project **
+## E-Book Management System: An Advance Java Web Project 
 
 I'm excited to present this E-Book Management System, a comprehensive web application designed for efficient ebook organization and access. It showcases a robust architecture built with Java servlets, deployed on Tomcatv9, and seamlessly integrated with a MySQL database. The E-Book Management System is a full-stack web application built using Java,Servlet,JDBC and Jsp, designed to streamline the buying and selling the books. It aims to digitize the traditional bookshop experience by providing users with an online platform to explore a wide variety of books, make purchases, and sell old book directly on the site. The system supports both administrative and user roles with separate functionalities.
 
@@ -43,7 +43,8 @@ I'm excited to present this E-Book Management System, a comprehensive web applic
 Screenshots:
 
 Registration Page
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd5a3449-5493-4442-a862-b690e9fea5ff" />
+<img width="1920" height="938" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/4e464a92-e270-4230-9b18-dff1ef4a3440" />
+
 
 
 Login Page
